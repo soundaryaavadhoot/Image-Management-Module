@@ -1,0 +1,9 @@
+{
+    "port": {
+        "serverPort": "4000"
+      },
+    "db": {
+        "connection-string": "mongodb://localhost:27017/myfin"
+      }
+
+}
